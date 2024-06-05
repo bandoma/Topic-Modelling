@@ -8,3 +8,6 @@ First about the recently emerged algorithm Bertopic(Bidirectional Encoder Repres
 Next, the most popular algorithm used for topic modeling is LSA (Latent semantic analysis).
 
 In addition, the team also makes deep learning models such as RNN and CNN to evaluate topic classification and make applications for development.
+
+
+**WEB DEPLOYMENT**: https://drive.google.com/drive/folders/1jxe-_pA6PUhxQaGcoc1m-eE4mx8utuvw
